@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+#hov{
+    color: #002ed5;
+}
+#hov2:hover{
+    color: #002ed5;
+}
+
+.nameError , .emailError , .passError , .pass2Error{
+    display: none;
+    color: rgb(220,53,69);
+    font-style: italic;
+    font-size: 15.5px;
+  }
+  .bhh{
+    color: rgb(220,53,69);
+    font-style: italic;
+    font-size: 15.5px;
+ }
